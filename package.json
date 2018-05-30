@@ -1,0 +1,14 @@
+{
+  "name": "@rappopo/cuk-repl",
+  "version": "0.0.1",
+  "description": "REPLfy CUK instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "dependencies": {
+    "replify": "^1.2.0"
+  }
+}
