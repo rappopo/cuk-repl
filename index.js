@@ -4,7 +4,7 @@ module.exports = function(cuk) {
   const { path } = cuk.lib
 
   return Promise.resolve({
-    id: 'repl',
+    id: 'dev',
     tag: 'util, boot'
   })
 }

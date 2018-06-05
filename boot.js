@@ -4,7 +4,7 @@ const replify = require('replify')
 
 module.exports = function(cuk) {
   const { path, _ } = cuk.lib
-  const pkg = cuk.pkg.repl
+  const pkg = cuk.pkg.dev
 
   pkg.trace('Initializing...')
   const context = {
